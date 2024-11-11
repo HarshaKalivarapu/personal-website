@@ -475,7 +475,15 @@
         </ul>
       </div>
     </nav>
-    <p>Copyright &#169; 2023 Harsha Kalivarapu. All Rights Reserved.</p>
+    <p>Copyright &#169; <span id="current-year"></span> Harsha Kalivarapu. All Rights Reserved.</p>
+
+<script>
+  // Get the current year
+  const currentYear = new Date().getFullYear();
+  
+  // Set the year in the element with id 'current-year'
+  document.getElementById("current-year").textContent = currentYear;
+</script>
   </footer>
   <script src="script.js"></script>
 </body>
