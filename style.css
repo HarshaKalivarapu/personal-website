@@ -437,17 +437,15 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  max-width: 1000px; 
 }
 
 .article-container {
   display: flex;
-  text-align: center;
+  text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
   justify-content: space-around;
-  max-width: 1000px; 
 }
 
 article {
