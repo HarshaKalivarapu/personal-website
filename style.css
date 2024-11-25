@@ -442,7 +442,7 @@ article .icon {
 
 .article-container {
   display: flex;
-  text-align: initial;
+  text-align: center;
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
