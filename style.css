@@ -446,7 +446,7 @@ article .icon {
   flex-direction: row;
   gap: 2.5rem;
   justify-content: space-around;
-  max-width: 1200px;
+  max-width: 400px;
 }
 
 article {
