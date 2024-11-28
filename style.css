@@ -392,6 +392,12 @@ article .icon {
   margin-bottom: 0.2rem;
 }
 
+.education-sub-sub-title {
+  color: rgb(85, 85, 85);
+  font-weight: 500;
+  font-size: 1.50rem;
+}
+
 .education-details-container {
   display: flex;
   justify-content: center;
