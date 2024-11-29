@@ -258,7 +258,7 @@ section {
 }
 
 .btn-color-2-unclickable {
-  background: rgb(120, 120, 120);
+  background: rgb(148, 148, 148);
   cursor: not-allowed;
   pointer-events: none;
   outline: none;
