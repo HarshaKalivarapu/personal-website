@@ -253,14 +253,15 @@ section {
   background: none;
 }
 
+.btn-color-2:hover {
+  border: rgb(63, 63, 63) 0.1rem solid;
+}
+
 .btn-color-2-unclickable {
   background: rgb(53, 53, 53);
   cursor: not-allowed;
   pointer-events: none;
-}
-
-.btn-color-2:hover {
-  border: rgb(63, 63, 63) 0.1rem solid;
+  outline: none;
 }
 
 .btn-container {
